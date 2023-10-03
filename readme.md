@@ -63,11 +63,11 @@ Setja skal upp stylelint með `stylelint-config-sass-guidelines` og `stylelint-c
 
 ## Sett fyrir
 
-Verkefni sett fyrir í fyrirlestri mánudaginn 2. október 2023.
+Verkefni sett fyrir fyrst á Canvas mánudaginn 2. október 2023 og af alvöru í fyrirlestri mánudaginn 9. októkber 2023.
 
 ## Skil
 
-Skila skal í Canvas, seinasta lagi fyrir lok dags fimmtudaginn 12. október 2023.
+Skila skal í Canvas, seinasta lagi fyrir lok dags fimmtudaginn 19. október 2023.
 
 Skilaboð skulu innihalda:
 
