@@ -6,6 +6,8 @@
 - Nota tól fengin af NPM.
 - Keyra tól í vinnuflæði með `package.json`.
 
+Vinna má út frá [sýnilausn á verkefni 5](https://github.com/vefforritun/vef1-2023-v5-synilausn).
+
 ## Verkefni 2–6
 
 Í verkefnum 2–6 munum við vinna áfram með sama verkefni og byggja ofan á það:
