@@ -59,8 +59,9 @@ Setja skal upp stylelint með `stylelint-config-sass-guidelines` og `stylelint-c
 
 ## Mat
 
-- 40% – CSS flutt yfir í Sass
-- 40% – stylelint uppsett og engar villur
+- 30% – CSS flutt yfir í Sass
+- 30% – stylelint uppsett og engar villur
+- 20% – Verkefni sett upp með git, repo á GitHub og tengt þaðan við Netlify
 - 20% – Verkefni sett upp með `package.json` og viðeigandi scriptum
 
 ## Sett fyrir
