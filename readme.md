@@ -53,7 +53,14 @@ Skipta skal CSS upp í mismunandi skrár undir `styles/`.
 
 ### Linting
 
-Setja skal upp stylelint með `stylelint-config-sass-guidelines` og `stylelint-config-standard`.
+Setja skal upp stylelint með `stylelint-config-sass-guidelines`, `.stylelintrc` ætti að innihalda:
+
+```
+{
+  "extends": ["stylelint-config-sass-guidelines"],
+  "rules": {}
+}
+```
 
 Þegar skipunin `npm run lint -s` er keyrð skal keyra stylelint með þessum reglum og ættu engar villur að koma fram.
 
